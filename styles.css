@@ -3,11 +3,15 @@
 }
 
 .done {
-    color: green;
+    color: rgb(39, 192, 39);
 }
 
 .working {
     color: coral;
+}
+
+.art_trade {
+    color: forestgreen;
 }
 
 body {
