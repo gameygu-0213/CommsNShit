@@ -1,0 +1,16 @@
+.important {
+    color: red;
+}
+
+.done {
+    color: green;
+}
+
+.working {
+    color: coral;
+}
+
+body {
+    background-color: #3c4653;
+    color: #4d68c0;
+}
