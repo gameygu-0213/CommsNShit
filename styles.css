@@ -18,6 +18,22 @@
     font-size: 200%;
 }
 
+a:link {
+    color: lightblue;
+}
+
+a:visited {
+    color: deepskyblue;
+}
+
+a:hover {
+    color: aliceblue;
+}
+
+a:active {
+    color: cornflowerblue;
+}
+
 body {
     background-color: #7d3d8d;
     color: lightsteelblue;
