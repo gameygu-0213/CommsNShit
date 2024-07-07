@@ -14,6 +14,10 @@
     color: forestgreen;
 }
 
+.big_text {
+    -webkit-text-size-adjust: 200%;
+}
+
 body {
     background-color: #7d3d8d;
     color: lightsteelblue;
